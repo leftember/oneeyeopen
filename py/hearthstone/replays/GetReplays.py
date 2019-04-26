@@ -1,7 +1,7 @@
 import requests
 import json
 name = 'sessionid'
-sessionid = '5zfk6k2wak351vhitl63m33rxggavfwc'
+sessionid = '<session_id>'
 
 cookie = {
         'version': 0,
