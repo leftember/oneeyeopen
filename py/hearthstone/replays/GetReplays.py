@@ -1,11 +1,7 @@
 import requests
 import json
 name = 'sessionid'
-<<<<<<< HEAD
 sessionid = '<session_id>'
-=======
-sessionid = '5zfk6k2wak351vhitl63m33rxggavfwc'
->>>>>>> master
 
 cookie = {
         'version': 0,
